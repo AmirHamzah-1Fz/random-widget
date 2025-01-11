@@ -11,11 +11,12 @@ module.exports = {
       },
       fontFamily: {
         'outfit': 'Outfit, sans-serif',
-        'funnel': 'Funnel Sans, sans-serif',
+        'funnel': 'Funnel Display, sans-serif',
         'jost': 'jost, sans-serif',
         'inter': 'Inter, serif',
         'manrope': 'Manrope, serif',
         'hostg': 'Host Grotesk, serif',
+        'spaceg': 'Space Grotesk, serif',
       }
     },
   },
